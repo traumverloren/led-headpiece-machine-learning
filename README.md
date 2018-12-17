@@ -1,8 +1,11 @@
 # Experiments in controlling LEDs with Machine Learning
 
----
 
-Trying to learn ML concepts and create interactive and reactive LEDs
+![](smile-led-headpiece.gif)
+
+Trying to learn ML concepts and create interactive and reactive LEDs.
+
+---
 
 Libaries:
 
